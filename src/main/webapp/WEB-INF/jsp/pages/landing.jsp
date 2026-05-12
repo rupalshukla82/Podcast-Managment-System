@@ -335,7 +335,7 @@
             <div class="f-logo"><i class="fa-solid fa-microphone"></i> PodcastMgr</div>
             <div class="f-links">
                 <a href="https://github.com/rupalshukla82/Podcast-Managment-System/">Source Code </a>
-               
+
                 <a href="${pageContext.request.contextPath}/index.fin">Sign Up</a>
                 <a href="${pageContext.request.contextPath}/login.fin">Login</a>
             </div>
