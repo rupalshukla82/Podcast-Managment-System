@@ -1,0 +1,85 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 11, 2026, 12:28:21 PM
+    Author     : abhi
+*/
+
+  body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: white;
+        }
+
+        .container {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .signup-box {
+            background-color: #181818;
+            padding: 40px;
+            border-radius: 10px;
+            width: 350px;
+            text-align: center;
+            box-shadow: 0 0 15px rgba(0,0,0,0.5);
+        }
+
+        .logo {
+            font-size: 28px;
+            font-weight: bold;
+            color: #1DB954;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            background-color: #282828;
+            color: white;
+        }
+
+        input::placeholder {
+            color: #aaa;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 12px;
+            margin-top: 15px;
+            border: none;
+            border-radius: 25px;
+            background-color: #1DB954;
+            color: black;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #1ed760;
+        }
+
+        .login-link {
+            margin-top: 15px;
+            display: block;
+            color: #1DB954;
+            text-decoration: none;
+        }
+
+        .login-link:hover {
+            text-decoration: underline;
+        }
