@@ -1,12 +1,11 @@
-#  PodcastMgr — Spotify-inspired Podcast Streaming App
+#  Podcast Managment System 
 
-> A full-stack podcast management web application built with Spring MVC, JSP, and MySQL — inspired by Spotify's dark UI design.
+> A full-stack podcast management web application built with Spring MVC, JSP, and MySQL — inspired by Spotify and Apple Podcast dark UI design.
 
 ---
 
 ##  Screenshots
 
-> *(Add screenshots of your app here after uploading)*
 
 | Home Page | Search Page | Profile Page |
 |-----------|-------------|--------------|
